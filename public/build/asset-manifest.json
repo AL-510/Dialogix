@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36a01654.css",
+    "main.js": "/static/js/main.a40d8f40.js",
+    "static/media/hi-robot.gif": "/static/media/hi-robot.a63bd424a3fdc5c775ac.gif",
+    "static/media/logo.png": "/static/media/logo.98dbec9ba8fba04b6951.png",
+    "static/media/loader.gif": "/static/media/loader.b40fc3d91ff1f4db53e2.gif",
+    "index.html": "/index.html",
+    "main.36a01654.css.map": "/static/css/main.36a01654.css.map",
+    "main.a40d8f40.js.map": "/static/js/main.a40d8f40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36a01654.css",
+    "static/js/main.a40d8f40.js"
+  ]
+}
